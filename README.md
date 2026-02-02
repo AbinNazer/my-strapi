@@ -35,7 +35,7 @@ http://localhost:1337/admin
 
 ## **📹 Demo Video**
 
-- Watch the project running locally: [Click here to watch](https://www.loom.com/share/2e742024ce2b47e28bc8f031e1a16e61)
+[Watch the project running locally](https://www.loom.com/share/2e742024ce2b47e28bc8f031e1a16e61)
 
 
 
